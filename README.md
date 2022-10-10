@@ -3,7 +3,7 @@
 
 This is a repo intended to house all of my brainfuck related projects.
 
-Currently there are three:  
+Currently there are three:
 - an interpreter. (interprets).
 	- obs.: no safety checks (eg. index out of bounds / segmentation fault).
 - a compressor. (turns sequences of n repeating characters into n followed by the character). may be extended in the future.
