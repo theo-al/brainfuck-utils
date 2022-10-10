@@ -10,5 +10,3 @@ Currently there are three:
 	- obs.: hardcoded filenames. doesn't work.
 - a decompressor. (turns compressed brainfuck into regular brainfuck code). may be extended in the future.
 	- obs.: hardcoded filenames.  
--
--
