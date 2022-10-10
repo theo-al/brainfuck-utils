@@ -9,7 +9,6 @@ Currently there are three:
 - a compressor. (turns sequences of n repeating characters into n followed by the character). may be extended in the future.
 	- obs.: hardcoded filenames. doesn't work.
 - a decompressor. (turns compressed brainfuck into regular brainfuck code). may be extended in the future.
-	- obs.: hardcoded filenames.
-
+	- obs.: hardcoded filenames.  
 -
 -
