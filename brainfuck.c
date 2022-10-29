@@ -2,8 +2,6 @@
 #include <limits.h>
 #include <ctype.h>
 
-typedef long unsigned int ulong;
-
 static char  mem[USHRT_MAX>>6];
 static short ptr;
 
@@ -12,9 +10,8 @@ int loop      (FILE*);
 
 int main (int argc, char** argv) {
 
-	FILE* file; 
-	char* path; if (argc > 1) path = argv[1];
-	else { printf("argument expected"); return -1; }
+	FILE* file; char* path;
+	if (argc > 1) path = argv[1]; else return 1;
 
 	file = fopen(path, "rt");
 	
