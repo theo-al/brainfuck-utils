@@ -11,6 +11,7 @@ Currently there are three:
 - a decompressor. (turns compressed brainfuck into regular brainfuck code). may be extended in the future.
 	- obs.: hardcoded filenames.  
 
+
 Planned additions:
 - a debugger (likely the only one with a nonzero chance of getting implemented) 
 - a compiler (let's see...)
