@@ -10,3 +10,11 @@ Currently there are three:
 	- obs.: hardcoded filenames. doesn't work.
 - a decompressor. (turns compressed brainfuck into regular brainfuck code). may be extended in the future.
 	- obs.: hardcoded filenames.  
+
+
+
+Planned additions:
+- a debugger (likely the only one with a nonzero chance of getting implemented) 
+- a compiler (let's see...)
+- brainfuck generator.
+- different versions (eg. named variables, absolute pointers, etc)  
